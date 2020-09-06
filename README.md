@@ -2,17 +2,16 @@
 
 A MATLAB package to quantify the functional redundancy of human microbial community
 
-Liang Tian1,2, Xu-Wen Wang1, Ang-Kun Wu1,3, Yuhang Fan1,4, Jonathan Friedman5, Amber Dahlin1, Matthew K. Waldor6,7, George M. Weinstock8, Scott T. Weiss1 & Yang-Yu Liu1
-1Channing Division of Network Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA
-2Department of Physics, Hong Kong Baptist University, Hong Kong, China
-3Department of Physics and Astronomy, Rutgers University, Piscataway, New Jersey 08854, USA
-4Department of Bioengineering, Stanford University, Stanford, California 94305, USA
-5Department of Plant Pathology and Microbiology, Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem, Jerusalem, Israel
-6Division of Infectious Diseases, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA
-7Howard Hughes Medical Institute, Boston, Massachusetts 02115, USA
-8The Jackson Laboratory for Genomic Medicine, Farmington, Connecticut 06117, USA 
+Liang Tian<sup>1,2</sup>, Xu-Wen Wang<sup>1</sup>, Ang-Kun Wu<sup>1,3</sup>, Yuhang Fan<sup>1,4</sup>, Jonathan Friedman<sup>5</sup>, Amber Dahlin<sup>1</sup>, Matthew K. Waldor<sup>6,7</sup>, George M. Weinstock<sup>8</sup>, Scott T. Weiss<sup>1</sup> & Yang-Yu Liu<sup>1</sup>
+<sup>1</sup>Channing Division of Network Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA
+<sup>2</sup>Department of Physics, Hong Kong Baptist University, Hong Kong, China
+<sup>3</sup>Department of Physics and Astronomy, Rutgers University, Piscataway, New Jersey 08854, USA
+<sup>4</sup>Department of Bioengineering, Stanford University, Stanford, California 94305, USA
+<sup>5</sup>Department of Plant Pathology and Microbiology, Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem, Jerusalem, Israel
+<sup>6</sup>Division of Infectious Diseases, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA
+<sup>7</sup>Howard Hughes Medical Institute, Boston, Massachusetts 02115, USA
+<sup>8</sup>The Jackson Laboratory for Genomic Medicine, Farmington, Connecticut 06117, USA 
 
-FR_tutorial_1.0.zip  (1.6 MB, version 1.0)
 Last update: Sep 06, 2020
 
 The file FR_tutorial_1.0.zip contains: 
