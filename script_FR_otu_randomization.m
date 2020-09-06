@@ -34,7 +34,7 @@ p_values_1=signrank( FR_real./ SD_real, FR_NULL_relabel./ SD_NULL_relabel);
 p_values_2=signrank( FR_real./ SD_real, FR_NULL_OTU1./ SD_NULL_OTU1);
 p_values_3=signrank( FR_real./ SD_real, FR_NULL_OTU2./ SD_NULL_OTU2);
 
-q_values=mafdr([p_1,p_2,p_3],'BHFDR', true);
+q_values=mafdr([p_values_1,p_values_2,p_values_3],'BHFDR', true);
 
 %% Figure
 real_posi=1;
