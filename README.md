@@ -15,7 +15,7 @@ Liang Tian<sup>1,2</sup>, Xu-Wen Wang<sup>1</sup>, Ang-Kun Wu<sup>1,3</sup>, Yuh
 
 Last update: Sep 06, 2020
 
-The file FR_tutorial_1.0.zip contains: 
+The files contain: 
 1) Abundance table and genomic content network for Stool sample of HMP (HMP_Stool.mat): Table of abundance at stain level of 553 stool samples from the HMP (http://www.hmpdacc.org/ ).
 2) Matlab scripts (script_FR_GCN_randomization.m & script_FR_otu_randomization): The matlab code imports the abundance table and genomic content network, calculates the functional redundancy for the real abundance and genomic content network and also for the randomized counterpart, and then plot the figures.
 3) Matlab functions used by the scripts.
