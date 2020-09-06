@@ -28,4 +28,4 @@ Output:
 1) Matlab figure showing normalized functional redundancy of real abundance and genomic content network compared with that for randomized genomic content network (left) and for randomized abundance table (right).
 2) Mann-Whitney U test p values and adjusted q values (Benjamini-Hochberg).
  
-![alt text](https://github.com/liangtian85/FR/Functional\ redundancy.pdf?raw=true)
+![alt text](https://github.com/liangtian85/FR/FR_figure.PNG?raw=true)
