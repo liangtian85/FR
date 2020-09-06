@@ -3,6 +3,7 @@
 A MATLAB package to quantify the functional redundancy of human microbial community
 
 Liang Tian<sup>1,2</sup>, Xu-Wen Wang<sup>1</sup>, Ang-Kun Wu<sup>1,3</sup>, Yuhang Fan<sup>1,4</sup>, Jonathan Friedman<sup>5</sup>, Amber Dahlin<sup>1</sup>, Matthew K. Waldor<sup>6,7</sup>, George M. Weinstock<sup>8</sup>, Scott T. Weiss<sup>1</sup> & Yang-Yu Liu<sup>1</sup>
+
 <sup>1</sup>Channing Division of Network Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts 02115, USA
 <sup>2</sup>Department of Physics, Hong Kong Baptist University, Hong Kong, China
 <sup>3</sup>Department of Physics and Astronomy, Rutgers University, Piscataway, New Jersey 08854, USA
