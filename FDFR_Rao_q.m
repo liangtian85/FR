@@ -3,6 +3,8 @@ function [ SD, FD, FR ] = FDFR_Rao_q ( otu_table, dij, q )
 % FD = \sum_i \sum_j d_ij (p_i)^q (p_j)^q 
 % FR = SD(q) - FD(q)
 
+q=1; %used in the paper
+
 [Num_spe, Num_samp] = size (otu_table);
 
 otu_table=otu_table./repmat(sum(otu_table),Num_spe,1);
