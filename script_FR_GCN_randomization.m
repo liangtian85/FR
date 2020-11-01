@@ -12,27 +12,27 @@ ab_table_real=ab_table_real(:,sum(ab_table_real>0,1)>5);
 
 % Real taxonomic profile
 dij_real=pdist(ko_table_real,@distfun_WeightedJaccard);
-[SD_real, FD_real, FR_real]=FDFR_Rao_q (ab_table_real, dij_real, 1);
+[SD_real, FD_real, FR_real]=FDFR_Rao_q (ab_table_real, dij_real);
 
 % Null-GCN-1
 ko_table_NULL_1=KO_matrix_random(ko_table_real,1);
 dij_NULL_1=pdist(ko_table_NULL_1,@distfun_WeightedJaccard);
-[SD_NULL_1, FD_NULL_1, FR_NULL_1]=FDFR_Rao_q (ab_table_real, dij_NULL_1, 1);
+[SD_NULL_1, FD_NULL_1, FR_NULL_1]=FDFR_Rao_q (ab_table_real, dij_NULL_1);
 
 % Null-GCN-2
 ko_table_NULL_2=KO_matrix_random(ko_table_real,2);
 dij_NULL_2=pdist(ko_table_NULL_2,@distfun_WeightedJaccard);
-[SD_NULL_2, FD_NULL_2, FR_NULL_2]=FDFR_Rao_q (ab_table_real, dij_NULL_2, 1);
+[SD_NULL_2, FD_NULL_2, FR_NULL_2]=FDFR_Rao_q (ab_table_real, dij_NULL_2);
 
 % Null-GCN-3
 ko_table_NULL_3=KO_matrix_random(ko_table_real,3);
 dij_NULL_3=pdist(ko_table_NULL_3,@distfun_WeightedJaccard);
-[SD_NULL_3, FD_NULL_3, FR_NULL_3]=FDFR_Rao_q (ab_table_real, dij_NULL_3, 1);
+[SD_NULL_3, FD_NULL_3, FR_NULL_3]=FDFR_Rao_q (ab_table_real, dij_NULL_3);
 
 % Null-GCN-4
 ko_table_NULL_4=KO_matrix_random(ko_table_real,4);
 dij_NULL_4=pdist(ko_table_NULL_4,@distfun_WeightedJaccard);
-[SD_NULL_4, FD_NULL_4, FR_NULL_4]=FDFR_Rao_q (ab_table_real, dij_NULL_4, 1);
+[SD_NULL_4, FD_NULL_4, FR_NULL_4]=FDFR_Rao_q (ab_table_real, dij_NULL_4);
 
 
 %% Mann-Whitney U test
