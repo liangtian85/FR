@@ -22,7 +22,7 @@ The files contain:
 3) Matlab functions used by the scripts.
 
 Running the tutorial:
-1) Extract the content of the enclosed FR_tutorial_1.0.zip file to a local directory.
+1) Download all the files in this repository to a local directory.
 2) Run the Matlab file. Running times for both of the scripts are less than 1 min. 
 (The code was written on MATLAB R2016b)
 
